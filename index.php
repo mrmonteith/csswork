@@ -5,14 +5,12 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>CSS Website Layout</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./css/BaseLayout.css">
-
-
-</head>
+  <head>
+    <title>CSS Website Layout</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/BaseLayout.css">
+  </head>
 <body>
 
 <div class="header">
@@ -43,11 +41,10 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
   </div>
 
+</div>
   <div class="footer">
   <p>Footer</p>
-</div>
-
-</div>
+  </div>
 
   
 </body>
